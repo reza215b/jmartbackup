@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8aca3dd1-00fa-4c5b-aae9-2855bfa0d867" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Account.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Algorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Complaint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Coupon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Invoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Jmart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/JsonTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/ObjectPoolThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/PhoneTopUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Predicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/ProductRating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Serializable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Shipment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RezaRahadiJmartMH/Treasury.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/city.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomPaymentList.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomProductList.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="218S82jH2sVXb9ylSanRBjcnMQZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aca3dd1-00fa-4c5b-aae9-2855bfa0d867" name="Changes" comment="" />
+      <created>1637321058676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637321058676</updated>
+      <workItem from="1637321060402" duration="17000" />
+      <workItem from="1637321178256" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
